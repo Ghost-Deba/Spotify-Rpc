@@ -1,12 +1,12 @@
 {
-"name": "Rpc Zaphub",
+"name": "Spotify Rpc",
 "version": "1.0.0",
 "main": "index.js",
 "scripts": {
 "start": "node index.js"
 },
 "engines": {
-"node": "18.x"
+"node": "20.x"
 },
 "dependencies": {
 "discord.js-selfbot-v13": "^3.6.1",
@@ -14,4 +14,3 @@
 "express": "^4.18.2"
 }
 }
-
